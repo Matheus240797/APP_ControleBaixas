@@ -15,10 +15,10 @@ namespace APP_AbatimentoCobranca_1._0 {
         public MySqlConnection con;
 
         public DB() {
-            string server = "172.16.0.121";
-            string database = "cobranca";
-            string user = "matheus";
-            string password = "Akrk@001";
+            string server = "";
+            string database = "";
+            string user = "";
+            string password = "";
 
             string connString = String.Format("Server={0};Database={1};Uid={2};Pwd={3}", server, database, user, password);
 
