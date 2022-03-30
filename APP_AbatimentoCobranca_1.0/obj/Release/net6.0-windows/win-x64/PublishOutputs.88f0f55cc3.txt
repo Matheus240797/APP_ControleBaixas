@@ -1,0 +1,7 @@
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\APP_AbatimentoCobranca_1.0.pdb
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\D3DCompiler_47_cor3.dll
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\PenImc_cor3.dll
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\PresentationNative_cor3.dll
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\vcruntime140_cor3.dll
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\wpfgfx_cor3.dll
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\APP_AbatimentoCobranca_1.0.exe

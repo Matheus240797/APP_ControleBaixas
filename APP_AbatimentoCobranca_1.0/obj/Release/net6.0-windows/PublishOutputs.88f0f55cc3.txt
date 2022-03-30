@@ -1,0 +1,13 @@
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\APP_AbatimentoCobranca_1.0.exe
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\APP_AbatimentoCobranca_1.0.dll
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\APP_AbatimentoCobranca_1.0.deps.json
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\APP_AbatimentoCobranca_1.0.runtimeconfig.json
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\APP_AbatimentoCobranca_1.0.pdb
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\BouncyCastle.Crypto.dll
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\Google.Protobuf.dll
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\K4os.Compression.LZ4.dll
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\K4os.Compression.LZ4.Streams.dll
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\K4os.Hash.xxHash.dll
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\MySql.Data.dll
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\Ubiety.Dns.Core.dll
+D:\MATHEUS AMARAL\APP\AppAbatimentoCobranca\ZstdNet.dll
